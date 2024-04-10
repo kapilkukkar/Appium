@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="com.google.common.cache.Cache"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+    <fullyQualifiedTypeName name="java.sql.Driver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.service.DriverCommandExecutor"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.AppiumBy"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.TouchAction"/>
+    <fullyQualifiedTypeName name="org.checkerframework.common.value.qual.StaticallyExecutable"/>
+    <fullyQualifiedTypeName name="javax.lang.model.element.Element"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.AddHasCasting"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.StringConcatFactory"/>
+    <fullyQualifiedTypeName name="java.lang.ThreadDeath"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Point"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.touch.LongPressOptions"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.touch.offset.ElementOption"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+    <fullyQualifiedTypeName name="io.appium.java_client.android.AndroidDriver"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Capabilities"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.VoiceStatus"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Dimension"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.PointerInput.Kind"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Sequence"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Pause"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.PointerInput.Origin"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.PointerInput"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.PointerInput.MouseButton"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

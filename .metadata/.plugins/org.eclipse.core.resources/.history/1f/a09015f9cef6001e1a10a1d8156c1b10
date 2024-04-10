@@ -1,0 +1,54 @@
+package Appium;
+
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URL;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.*;
+
+import io.appium.java_client.android.AndroidDriver;
+
+public class LongPress 
+{
+
+	DesiredCapabilities capabilities;
+	AndroidDriver driver;
+	@BeforeTest	
+	public void setup() throws MalformedURLException
+	{
+		capabilities= new DesiredCapabilities();
+		capabilities.setCapability("platformName","Android");
+		capabilities.setCapability("automationName","uiautomator2");
+		capabilities.setCapability("deviceName","AndroidPhone");
+		capabilities.setCapability("appPackage","com.google.android.dialer");
+		capabilities.setCapability("appActivity","com.google.android.dialer.extensions.GoogleDialtactsActivity");
+		capabilities.setCapability("platformVersion", "13");
+		URL url = URI.create("http://10.0.0.82:4723/").toURL();
+		driver =  new AndroidDriver(url,capabilities);
+		
+	}	
+	@Test	
+	public void test_01()
+	{
+		String dialerid="com.google.android.dialer:id/";
+		driver.findElement(By.id(dialerid+"dialpad_fab")).click();
+		driver.findElement(By.id(dialerid+"four")).click();
+		driver.findElement(By.id(dialerid+"one")).click();
+		driver.findElement(By.id(dialerid+"six")).click();
+		driver.findElement(By.id(dialerid+"eight")).click();
+		driver.findElement(By.id(dialerid+"seven")).click();
+		driver.findElement(By.id(dialerid+"eight")).click();
+		driver.findElement(By.id(dialerid+"six")).click();
+		driver.findElement(By.id(dialerid+"four")).click();
+		driver.findElement(By.id(dialerid+"seven")).click();
+		driver.findElement(By.id(dialerid+"eight")).click();
+	}
+	@AfterTest
+	public void tear_down() throws InterruptedException
+	{
+		Thread.sleep(3500);
+		driver.quit();
+	}
+}
