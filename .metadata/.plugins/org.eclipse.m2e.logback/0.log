@@ -506,3 +506,7 @@
 2024-04-09 20:32:53,395 [Worker-57: Launching LongPress.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
 2024-04-09 21:00:22,168 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-04-09 21:00:22,168 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-09 21:00:22,171 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-09 21:00:22,172 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-09 21:17:14,297 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-09 21:17:14,298 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
