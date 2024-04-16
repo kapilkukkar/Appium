@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T19:14:34 EDT" name="Default suite" finished-at="2024-04-11T19:14:44 EDT" duration-ms="9984">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T19:14:34 EDT" name="Default test" finished-at="2024-04-11T19:14:44 EDT" duration-ms="9984">
+      <class name="Practice.Day1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Practice.Day1@515aebb0]" started-at="2024-04-11T19:14:34 EDT" name="setup" finished-at="2024-04-11T19:14:39 EDT" duration-ms="5605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_01()[pri:0, instance:Practice.Day1@515aebb0]" started-at="2024-04-11T19:14:39 EDT" name="test_01" finished-at="2024-04-11T19:14:40 EDT" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:Practice.Day1@515aebb0]" started-at="2024-04-11T19:14:40 EDT" name="tear_down" finished-at="2024-04-11T19:14:44 EDT" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- Practice.Day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

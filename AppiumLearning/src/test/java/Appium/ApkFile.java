@@ -19,7 +19,7 @@ public class ApkFile {
 		capabilities.setCapability("deviceName", "AndroidPhone");
 		capabilities.setCapability("platformName", "Android");
 		capabilities.setCapability("automationName", "uiautomator2");
-		capabilities.setCapability("app", "C:\\Users\\kumar\\Downloads\\APKFiles\\resources\\ApiDemos.apk");
+		capabilities.setCapability("app", "C:\\Users\\kumar\\Downloads\\APKFiles\\MyDemo.apk");
 		capabilities.setCapability("platformVersion", "13");
 		URL url = URI.create("http://10.0.0.82:4723/").toURL();  
 		AndroidDriver driver = new AndroidDriver(url,capabilities);

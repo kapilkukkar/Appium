@@ -8,11 +8,17 @@ import java.time.Duration;
 import java.util.Arrays;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.devtools.idealized.target.model.TargetID;
 import org.openqa.selenium.interactions.PointerInput;
 import org.openqa.selenium.interactions.Sequence;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebElement;
 import org.testng.annotations.*;
+
+import com.google.common.collect.ImmutableMap;
+
 import org.openqa.selenium.Point;
 import io.appium.java_client.android.AndroidDriver;
 
@@ -30,7 +36,7 @@ public class LongPress
 		Sequence sequence = new Sequence(long_press, 1)
 				.addAction(long_press.createPointerMove(Duration.ofMillis(0),PointerInput.Origin.viewport() , location.x,location.y))
 				.addAction(long_press.createPointerDown(PointerInput.MouseButton.LEFT.asArg()))
-				.addAction(long_press.createPointerMove(Duration.ofMillis(100), PointerInput.Origin.viewport(), location.x,location.y))
+				.addAction(long_press.createPointerMove(Duration.ofMillis(1000), PointerInput.Origin.viewport(), location.x,location.y))
 				.addAction(long_press.createPointerUp(PointerInput.MouseButton.LEFT.asArg()));
 
 		driver.perform(Arrays.asList(sequence));
@@ -71,6 +77,25 @@ public class LongPress
 		backspace = driver.findElement(By.xpath("//android.widget.ImageButton[@content-desc=\"backspace\"]"));
 		long_press(backspace);
 
+	}
+	@Test
+	public void test_02()
+	{
+		String dialerid="com.google.android.dialer:id/";
+		driver.findElement(By.id(dialerid+"dialpad_fab")).click();
+		driver.findElement(By.id(dialerid+"four")).click();
+		driver.findElement(By.id(dialerid+"one")).click();
+		driver.findElement(By.id(dialerid+"six")).click();
+		driver.findElement(By.id(dialerid+"eight")).click();
+		driver.findElement(By.id(dialerid+"seven")).click();
+		driver.findElement(By.id(dialerid+"eight")).click();
+		driver.findElement(By.id(dialerid+"six")).click();
+		driver.findElement(By.id(dialerid+"two")).click();
+		driver.findElement(By.id(dialerid+"three")).click();
+		driver.findElement(By.id(dialerid+"five")).click();
+		backspace = driver.findElement(By.xpath("//android.widget.ImageButton[@content-desc=\"backspace\"]"));
+		((JavascriptExecutor)driver).executeScript("mobile : longClickGesture",
+									ImmutableMap.of("elementId",((RemoteWebElement) backspace).getId(),"duration",2000));
 	}
 	@AfterTest
 	public void tear_down() throws InterruptedException

@@ -18,6 +18,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import io.appium.java_client.AppiumBy;
 import io.appium.java_client.android.AndroidDriver;
 import net.bytebuddy.implementation.bytecode.ByteCodeAppender.Size;
 
@@ -156,6 +157,15 @@ public class SwipeAndScroll
         // Print out the start and end positions within the sequences
         System.out.println("Sequence 1:");
         System.out.println("StartX: " + startX + ", StartY: " + startY + ", EndX: " + endX + ", EndY: " + endY + ", EndZ: " + endZ);
+	}
+	@Test
+	public void test_04() throws InterruptedException
+	{
+		driver.findElement(By.xpath("//android.widget.TextView[@content-desc=\"Views\"]")).click();
+		driver.findElement(AppiumBy.androidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"WebView\"));"));
+		Thread.sleep(1550);
+		driver.findElement(AppiumBy.androidUIAutomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"Buttons\"));"));		
+
 	}
 
 	@AfterTest

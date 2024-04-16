@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-09T20:32:54 EDT" name="Default suite" finished-at="2024-04-09T20:33:14 EDT" duration-ms="20694">
+  <suite started-at="2024-04-15T20:17:08 EDT" name="Default suite" finished-at="2024-04-15T20:17:28 EDT" duration-ms="19924">
     <groups>
     </groups>
-    <test started-at="2024-04-09T20:32:54 EDT" name="Default test" finished-at="2024-04-09T20:33:14 EDT" duration-ms="20694">
-      <class name="Appium.LongPress">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Appium.LongPress@35cabb2a]" started-at="2024-04-09T20:32:54 EDT" name="setup" finished-at="2024-04-09T20:33:00 EDT" duration-ms="6526" status="PASS">
+    <test started-at="2024-04-15T20:17:08 EDT" name="Default test" finished-at="2024-04-15T20:17:28 EDT" duration-ms="19924">
+      <class name="Appium.Extract_Text">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Appium.Extract_Text@2d7275fc]" started-at="2024-04-15T20:17:08 EDT" name="setup" finished-at="2024-04-15T20:17:14 EDT" duration-ms="6713" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_01()[pri:0, instance:Appium.LongPress@35cabb2a]" started-at="2024-04-09T20:33:00 EDT" name="test_01" finished-at="2024-04-09T20:33:11 EDT" duration-ms="10372" status="PASS">
+        <test-method signature="landscapemode()[pri:0, instance:Appium.Extract_Text@2d7275fc]" started-at="2024-04-15T20:17:14 EDT" name="landscapemode" finished-at="2024-04-15T20:17:25 EDT" duration-ms="10348" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_01 -->
-        <test-method is-config="true" signature="tear_down()[pri:0, instance:Appium.LongPress@35cabb2a]" started-at="2024-04-09T20:33:11 EDT" name="tear_down" finished-at="2024-04-09T20:33:14 EDT" duration-ms="3769" status="PASS">
+        </test-method> <!-- landscapemode -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:Appium.Extract_Text@2d7275fc]" started-at="2024-04-15T20:17:25 EDT" name="tear_down" finished-at="2024-04-15T20:17:28 EDT" duration-ms="2836" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tear_down -->
-      </class> <!-- Appium.LongPress -->
+      </class> <!-- Appium.Extract_Text -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Appium.LongPress">
+      <class name="Appium.DragAndDrop">
         <methods>
-          <include name="test_01"/>
-          <include name="tear_down"/>
+          <include name="test_03"/>
+          <include name="teardown"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- Appium.LongPress -->
+      </class> <!-- Appium.DragAndDrop -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

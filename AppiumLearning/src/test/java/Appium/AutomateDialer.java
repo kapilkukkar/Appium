@@ -19,6 +19,7 @@ public class AutomateDialer {
 		capabilities.setCapability("deviceName","AndroidPhone");
 		capabilities.setCapability("appPackage","com.google.android.dialer");
 		capabilities.setCapability("appActivity","com.google.android.dialer.extensions.GoogleDialtactsActivity");
+		
 		capabilities.setCapability("platformVersion", "13");
 		URL url = URI.create("http://10.0.0.82:4723/").toURL();
 		AndroidDriver driver =  new AndroidDriver(url,capabilities);
