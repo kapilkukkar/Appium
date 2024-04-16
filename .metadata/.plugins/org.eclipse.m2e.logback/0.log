@@ -1118,3 +1118,15 @@
 2024-04-15 20:16:52,005 [Worker-104: Launching Extract_Text] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
 2024-04-15 20:19:44,388 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-04-15 20:19:44,388 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-15 20:19:44,389 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:19:44,389 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-15 20:32:35,142 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:32:35,142 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\SeleniumPractice\src\main\resources
+2024-04-15 20:32:35,144 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:32:35,145 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\SeleniumPractice\src\test\resources
+2024-04-15 20:34:09,153 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:34:09,153 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-15 20:34:09,154 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:34:09,154 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-15 20:36:51,311 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:36:51,311 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
