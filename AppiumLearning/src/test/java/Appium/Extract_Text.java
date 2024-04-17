@@ -76,6 +76,7 @@ public class Extract_Text
 		driver.setClipboardText("Sahab Wifii");
 		driver.findElement(By.xpath("//android.widget.EditText[@resource-id=\"android:id/edit\"]")).sendKeys(driver.getClipboardText());
 		driver.pressKey(new KeyEvent(AndroidKey.DEL));
+		
 		driver.findElement(By.xpath("//android.widget.Button[@resource-id=\"android:id/button1\"]")).click();
 	}
 

@@ -1130,3 +1130,282 @@
 2024-04-15 20:34:09,154 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
 2024-04-15 20:36:51,311 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-04-15 20:36:51,311 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-15 20:36:51,312 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-15 20:36:51,312 [Worker-112: Launching AppActivity.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 00:31:58,002 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-16 00:59:00,594 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 00:59:00,598 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 00:59:00,601 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 00:59:00,601 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 01:05:19,564 [Worker-28: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:05:19,564 [Worker-28: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 01:05:19,566 [Worker-28: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:05:19,566 [Worker-28: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 01:06:34,849 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:06:34,849 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 01:06:34,854 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:06:34,854 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 01:07:48,344 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:07:48,344 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 01:07:48,347 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 01:07:48,347 [Worker-31: Launching AutoComplete.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:14:38,534 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-16 15:30:09,493 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:30:09,498 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:30:09,502 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:30:09,504 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:42:43,097 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-16 15:43:20,895 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:43:20,896 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:43:20,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:43:20,900 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:44:03,436 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:44:03,436 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:44:03,439 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:44:03,439 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:45:38,864 [Worker-10: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:45:38,864 [Worker-10: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:45:38,865 [Worker-10: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:45:38,866 [Worker-10: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:47:10,909 [Worker-2: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:47:10,910 [Worker-2: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:47:10,912 [Worker-2: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:47:10,913 [Worker-2: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 15:53:05,097 [Worker-22: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:53:05,098 [Worker-22: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 15:53:05,100 [Worker-22: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 15:53:05,101 [Worker-22: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:00:54,373 [Worker-25: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:00:54,375 [Worker-25: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:00:54,377 [Worker-25: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:00:54,377 [Worker-25: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:02:52,845 [Worker-13: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:02:52,845 [Worker-13: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:02:52,847 [Worker-13: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:02:52,847 [Worker-13: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:03:31,728 [Worker-12: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:03:31,728 [Worker-12: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:03:31,729 [Worker-12: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:03:31,729 [Worker-12: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:07:26,666 [Worker-27: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:07:26,667 [Worker-27: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:07:26,669 [Worker-27: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:07:26,669 [Worker-27: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:09:02,999 [Worker-26: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:09:02,999 [Worker-26: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:09:03,001 [Worker-26: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:09:03,001 [Worker-26: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:13:40,554 [Worker-23: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:13:40,554 [Worker-23: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:13:40,557 [Worker-23: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:13:40,557 [Worker-23: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:14:17,127 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:14:17,128 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:14:17,130 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:14:17,130 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:14:42,518 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:14:42,519 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:14:42,520 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:14:42,520 [Worker-33: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:15:26,737 [Worker-31: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:15:26,737 [Worker-31: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:15:26,739 [Worker-31: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:15:26,740 [Worker-31: Launching Login_Page.test_01] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:20:11,995 [Worker-36: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:20:11,996 [Worker-36: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:20:11,999 [Worker-36: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:20:11,999 [Worker-36: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:22:12,640 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:22:12,640 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:22:12,643 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:22:12,643 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:23:07,326 [Worker-37: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:23:07,326 [Worker-37: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:23:07,328 [Worker-37: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:23:07,328 [Worker-37: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:24:40,024 [Worker-39: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:24:40,024 [Worker-39: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:24:40,026 [Worker-39: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:24:40,027 [Worker-39: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:25:59,585 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:25:59,586 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:25:59,589 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:25:59,589 [Worker-38: Launching Login_Page.test_02] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:41:48,227 [Worker-31: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:41:48,228 [Worker-31: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:41:48,230 [Worker-31: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:41:48,231 [Worker-31: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:43:38,126 [Worker-44: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:43:38,126 [Worker-44: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:43:38,128 [Worker-44: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:43:38,128 [Worker-44: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 16:48:16,945 [Worker-46: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:48:16,946 [Worker-46: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 16:48:16,948 [Worker-46: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 16:48:16,949 [Worker-46: Launching Login_Page.enter_item_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:10:53,894 [Worker-31: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:10:53,896 [Worker-31: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:10:53,899 [Worker-31: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:10:53,899 [Worker-31: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:13:09,830 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:13:09,831 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:13:09,832 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:13:09,832 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:14:42,001 [Worker-58: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:14:42,002 [Worker-58: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:14:42,004 [Worker-58: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:14:42,004 [Worker-58: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:15:54,642 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:15:54,643 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:15:54,643 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:15:54,644 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:16:41,901 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:16:41,901 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:16:41,902 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:16:41,902 [Worker-51: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:20:39,061 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:20:39,062 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:20:39,064 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:20:39,065 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:22:39,616 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:22:39,616 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:22:39,618 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:22:39,618 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:23:25,112 [Worker-63: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:23:25,112 [Worker-63: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:23:25,114 [Worker-63: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:23:25,114 [Worker-63: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:23:47,274 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:23:47,275 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:23:47,276 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:23:47,276 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:29:28,364 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:29:28,364 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:29:28,366 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:29:28,366 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:31:26,578 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:31:26,578 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:31:26,580 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:31:26,580 [Worker-59: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:32:39,360 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:32:39,360 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:32:39,362 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:32:39,362 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:39:33,852 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:39:33,853 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:39:33,854 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:39:33,854 [Worker-68: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:48:33,346 [Worker-70: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:48:33,346 [Worker-70: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:48:33,349 [Worker-70: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:48:33,349 [Worker-70: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:51:04,007 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:51:04,007 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:51:04,008 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:51:04,009 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:54:05,985 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:54:05,985 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:54:05,987 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:54:05,987 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:57:02,678 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:57:02,679 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:57:02,681 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:57:02,681 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 18:58:53,200 [Worker-85: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:58:53,200 [Worker-85: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 18:58:53,202 [Worker-85: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 18:58:53,202 [Worker-85: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:06:44,297 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:06:44,297 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:06:44,298 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:06:44,298 [Worker-61: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:15:08,395 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:15:08,396 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:15:08,397 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:15:08,397 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:16:49,805 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:16:49,805 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:16:49,806 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:16:49,807 [Worker-86: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:17:35,588 [Worker-88: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:17:35,589 [Worker-88: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:17:35,590 [Worker-88: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:17:35,590 [Worker-88: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:18:26,831 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:18:26,831 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:18:26,832 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:18:26,832 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:21:27,563 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:21:27,564 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:21:27,565 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:21:27,565 [Worker-92: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:25:44,863 [Worker-96: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:25:44,863 [Worker-96: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:25:44,864 [Worker-96: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:25:44,864 [Worker-96: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:36:07,735 [Worker-101: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:36:07,735 [Worker-101: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:36:07,737 [Worker-101: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:36:07,737 [Worker-101: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:44:31,308 [Worker-104: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:44:31,309 [Worker-104: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:44:31,310 [Worker-104: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:44:31,310 [Worker-104: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:45:37,212 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:45:37,214 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:45:37,215 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:45:37,215 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:47:52,451 [Worker-106: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:47:52,452 [Worker-106: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:47:52,452 [Worker-106: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:47:52,452 [Worker-106: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:52:40,148 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:52:40,148 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:52:40,150 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:52:40,152 [Worker-106: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:53:51,202 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:53:51,203 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:53:51,205 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:53:51,205 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 19:59:57,849 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:59:57,849 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 19:59:57,850 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 19:59:57,852 [Worker-112: Launching Login_Page] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:02:27,084 [Worker-116: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:02:27,084 [Worker-116: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:02:27,087 [Worker-116: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:02:27,087 [Worker-116: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:06:07,979 [Worker-115: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:06:07,980 [Worker-115: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:06:07,981 [Worker-115: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:06:07,981 [Worker-115: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:10:46,440 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:10:46,440 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:10:46,442 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:10:46,442 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:14:54,612 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:14:54,613 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:14:54,614 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:14:54,614 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:15:13,807 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:15:13,808 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:15:13,809 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:15:13,809 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:16:06,213 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:16:06,214 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:16:06,216 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:16:06,216 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:18:03,097 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:18:03,098 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:18:03,100 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:18:03,101 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:19:47,496 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:19:47,496 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:19:47,498 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:19:47,498 [Worker-123: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:20:34,620 [Worker-121: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:20:34,622 [Worker-121: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
+2024-04-16 20:20:34,623 [Worker-121: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:20:34,623 [Worker-121: Launching Login_Page.validating_cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\test\resources
+2024-04-16 20:21:33,046 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-16 20:21:33,047 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kumar\AppiumLearning\AppiumLearning\src\main\resources
